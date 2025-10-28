@@ -1,0 +1,6 @@
+numpy
+opencv-python
+ultralytics
+reachy_mini
+pytest
+mujoco
