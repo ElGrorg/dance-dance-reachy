@@ -1,4 +1,4 @@
-# Reachy Mini Pose Controller
+# Dance Dance Reachy
 
 This project uses a webcam and a YOLOv8-pose model to detect a person's pose in real-time and control a Reachy Mini robot to mirror their movements.
 
