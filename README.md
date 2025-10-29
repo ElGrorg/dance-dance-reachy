@@ -16,7 +16,6 @@ This project uses a webcam and a YOLOv8-pose model to detect a person's pose in 
 1.  **Clone the repository:**
     ```sh
     git clone [https://github.com/ElGrorg/dance-dance-reachy.git](https://github.com/ElGrorg/dance-dance-reachy.git)
-    cd reachy-pose-controller
     ```
 
 2.  **Create and activate a virtual environment:**
